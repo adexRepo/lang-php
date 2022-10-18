@@ -1,0 +1,17 @@
+{
+    "name": "belajar/project1",
+    "description": "testing pertama composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Belajar\\Project1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adek Kristiyanto",
+            "email": "aeitiao@gmail.com"
+        }
+    ],
+    "require": {}
+}
